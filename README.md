@@ -14,7 +14,7 @@ Na segunda e terceira fase dessa etapa do jogo , a mecânica é a mesma, use o m
 
 Na segunda fase do jogo, você deve dividir o gado em macho e fêmea, para isso passa o mouse sobre os aninais e será possível ver o nome e sexo deles. Os machos vão para a direita e as fêmeas para a esquerda, para que isso aconteça clique e segure com o mouse para onde o gado deve ir.
 
-Por fim, é mostrado uma iniciação comemorando os 30 anos do agrinho !.
+Por fim, é mostrado uma animação comemorando os 30 anos do agrinho.
 
 Créditos:  
 Imagens dos animais e tratores: https://getemoji.com/   
