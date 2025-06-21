@@ -16,4 +16,8 @@ Na segunda fase do jogo, você deve dividir o gado em macho e fêmea, para isso 
 
 Por fim, é mostrado uma iniciação comemorando os 30 anos do agrinho !.
 
+Créditos:  
+Imagens dos animais e tratores: https://getemoji.com/   
+Demais ilustrações: Criada pelo autor.    
+
 Feito por: Hugo Gianini. 
